@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\bin\Debug\phase1project1.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\bin\Debug\phase1project1.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\bin\Debug\phase1project1.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\obj\Debug\phase1project1.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\obj\Debug\phase1project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\obj\Debug\phase1project1.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\obj\Debug\phase1project1.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\phase1project1\phase1project1\obj\Debug\phase1project1.pdb
